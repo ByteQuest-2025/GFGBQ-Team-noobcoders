@@ -7,7 +7,7 @@
 
 <p><b>Maitri</b> is an intelligent health risk screening web application designed to <b>detect early signs of silent lifestyle diseases</b> using basic health and lifestyle inputs.</p>
 
-<p><i> Maitri is A health companion, who warns before disease begins</i></p>
+<p><i> Maitri is A health companion, who warns before disease begins!</i></p>
 
 <hr>
 
@@ -137,7 +137,7 @@ Maitri empowers individuals to take control of their health by predicting risks 
     <li>Multilingual support</li>
     <li>Wearable device integration</li>
 </ul>
-
+<hr>
 <p>⭐ Liked the concept? Support this project by giving the repository a star.</p>
 
 
