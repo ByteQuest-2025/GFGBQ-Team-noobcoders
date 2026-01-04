@@ -22,16 +22,13 @@ Modern lifestyles and sedentary habits lead to several “silent” health issue
 ## Deployed Link
 Deployed Web Application: [https://maitri-the-early-symptoms-detector.streamlit.app/](https://maitri-the-early-symptoms-detector.streamlit.app/)
 
----
-
-## 2-Minute Demonstration Video Link
-[Demo Video](https://videolink.com)
 
 ---
 
 ## PPT Link
-[PPT Presentation](https://pptlink.com)
 
+
+[PPT Presentation](https://github.com/user-attachments/files/24420724/By.-.Shristi.Kumari.-.Anu.Kumari.pptx)
 
 
 ---
@@ -143,6 +140,11 @@ streamlit run app.py
 </pre>
 
 <hr>
+
+## Setup
+```
+streamlit run app.py
+```
 
 <h2>🎯 Use Cases</h2>
 <ul>
