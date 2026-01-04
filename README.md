@@ -1,35 +1,35 @@
-# Team : NoobCoders
+<!--# Team : NoobCoders-->
 <!--GFGBQ-Team-noobcoders-->
 # Silent Disease Early Detection Engine
 
 ---
 
-## 1️⃣ Problem Statement
+## Problem Statement
 Modern lifestyles and sedentary habits lead to several “silent” health issues such as diabetes, hypertension, anemia, vitamin deficiencies, and early cardiovascular risks. People often remain unaware of these risks until severe complications arise. There is a lack of a unified system that monitors lifestyle factors, predicts early disease risks, and provides actionable health recommendations.
 
 ---
 
-## 2️⃣ Maitri
+## Maitri
 **Maitri — Your Health Companion That Warns Before Disease Begins**
 
 ---
 
-## 3️⃣ Team Name
+## Team Name
 **Team NoobCoders**
 
 ---
 
-## 4️⃣ Deployed Link
+## Deployed Link
 Deployed Web Application: [https://maitri-the-early-symptoms-detector.streamlit.app/](https://maitri-the-early-symptoms-detector.streamlit.app/)
 
 ---
 
-## 5️⃣ 2-Minute Demonstration Video Link
+## 2-Minute Demonstration Video Link
 [Demo Video](https://videolink.com)
 
 ---
 
-## 6️⃣ PPT Link
+## PPT Link
 [PPT Presentation](https://pptlink.com)
 
 
