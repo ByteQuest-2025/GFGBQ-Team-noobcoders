@@ -1,13 +1,49 @@
 # Team : NoobCoders
 <!--GFGBQ-Team-noobcoders-->
+# Silent Disease Early Detection Engine
 
-<h1> Silent Disease Early Detection Engine </h1>
+---
 
-<h1>🩺 Maitri – Silent Disease Risk Engine</h1>
+## 1️⃣ Problem Statement
+Modern lifestyles and sedentary habits lead to several “silent” health issues such as diabetes, hypertension, anemia, vitamin deficiencies, and early cardiovascular risks. People often remain unaware of these risks until severe complications arise. There is a lack of a unified system that monitors lifestyle factors, predicts early disease risks, and provides actionable health recommendations.
 
-<p><b>Maitri</b> is an intelligent health risk screening web application designed to <b>detect early signs of silent lifestyle diseases</b> using basic health and lifestyle inputs.</p>
+---
 
-<p><i> Maitri is A health companion, who warns before disease begins!</i></p>
+## 2️⃣ Maitri
+**Maitri — Your Health Companion That Warns Before Disease Begins**
+
+---
+
+## 3️⃣ Team Name
+**Team NoobCoders**
+
+---
+
+## 4️⃣ Deployed Link
+Deployed Web Application: [https://maitri-the-early-symptoms-detector.streamlit.app/](https://maitri-the-early-symptoms-detector.streamlit.app/)
+
+---
+
+## 5️⃣ 2-Minute Demonstration Video Link
+[Demo Video](https://videolink.com)
+
+---
+
+## 6️⃣ PPT Link
+[PPT Presentation](https://pptlink.com)
+
+
+
+---
+
+## 📊 How It Works
+
+1. **Data Collection**: Users provide health and lifestyle data.  
+2. **Feature Analysis**: Data analyzed for correlations with diseases.  
+3. **Risk Prediction**: ML models predict the probability of developing silent diseases.  
+4. **Alerts & Recommendations**: Personalized preventive guidance is provided to the user.  
+
+
 
 <hr>
 
@@ -111,13 +147,17 @@ streamlit run app.py
 <h2>🎯 Use Cases</h2>
 <ul>
     <li>Early lifestyle disease awareness</li>
-    <li>Health-tech hackathons</li>
-    <li>Academic projects (B.Tech / M.Tech)</li>
     <li>Preventive healthcare prototypes</li>
     <li>Public health screening demos</li>
 </ul>
 
 <hr>
+
+## Screenshort
+
+<img width="1917" height="847" alt="Screenshot 2026-01-04 132352" src="https://github.com/user-attachments/assets/a86c3d21-4e0e-4fc1-aba2-8dd7b6422b78" />
+<img width="1917" height="1009" alt="Screenshot 2026-01-04 132655" src="https://github.com/user-attachments/assets/c92e232b-85b2-4b51-9392-f271970ed779" />
+
 
 ## 📈 Impact
 
@@ -138,6 +178,10 @@ Maitri empowers individuals to take control of their health by predicting risks 
     <li>Wearable device integration</li>
 </ul>
 <hr>
+<h2>
+    Author<br>
+    Shristi Kumari | Anu Kumari
+</h2>
 <p>⭐ Liked the concept? Support this project by giving the repository a star.</p>
 
 
