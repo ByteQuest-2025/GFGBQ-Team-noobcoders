@@ -182,7 +182,7 @@ Maitri empowers individuals to take control of their health by predicting risks 
 <hr>
 <h2>
     Author<br>
-    Shristi Kumari | Anu Kumari
+    <a href="https://github.com/SHRISTI-125">Shristi Kumari</a> | <a href="https://github.com/anu4552">Anu Kumari</a>
 </h2>
 <p>⭐ Liked the concept? Support this project by giving the repository a star.</p>
 
